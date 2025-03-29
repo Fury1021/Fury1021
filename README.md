@@ -36,11 +36,13 @@ Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from t
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
 ## 📊 GitHub Stats
-![Diomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=diomerlmanaois&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diomerlmanaois&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=diomerlmanaois&theme=radical)
+| | |
+|---|---|
+| ![Diomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury1021&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fury1021&layout=compact&theme=radical) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=fury1021&theme=radical) |  |
 
 ## 🚀 Profile Analytics
-![Profile Views](https://komarev.com/ghpvc/?username=diomerlmanaois&color=blue)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=diomerlmanaois&theme=darkhub)
-![Diomer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diomerlmanaois&theme=react-dark)
+| | |
+|---|---|
+| ![Profile Views](https://komarev.com/ghpvc/?username=fury1021&color=blue) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fury1021&theme=darkhub) |
+| ![Diomer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fury1021&theme=react-dark) |  |
