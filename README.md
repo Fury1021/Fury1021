@@ -3,21 +3,21 @@
 ## About Me
 Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from the Philippines. I love crafting seamless, responsive, and dynamic web applications using modern technologies. My coding journey is fueled by my dedication to innovation and creativity.
 
-## 🎓 Education
+# 🎓 Education
 **BS Information Technology** at Adamson University
 
-## 💼 Profession
+# 💼 Profession
 **On Job Trainee at CAAP**  
 **ADU Game Member 2021**  
 **ADU IT and IS Member**
 
-## 🎶 Hobbies
+# 🎶 Hobbies
 **Drummer, Music Enthusiast, and Playing Games**
 
-## 🌐 Content Creator
+# 🌐 Content Creator
 **Platforms:** Tiktok, Instagram, Facebook
 
-## ❤️ Passion
+# ❤️ Passion
 **Coding, Designing, and Creating Engaging Content**
 
 ## 💡 Tech Stack
