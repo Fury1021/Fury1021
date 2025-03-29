@@ -39,7 +39,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 | GitHub Stats | |
 |---|---|
 | ![Diomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=fury1021&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fury1021&layout=compact&theme=radical) |
- ![GitHub Streak](https://streak-stats.demolab.com/?user=fury1021&theme=radical) |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=fury1021&theme=radical) |
 
 ## 🚀 Profile Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=fury1021&color=blue)
