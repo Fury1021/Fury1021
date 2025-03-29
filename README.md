@@ -7,7 +7,9 @@ Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from t
 **BS Information Technology** at Adamson University
 
 ## 💼 Profession
-**On Job Trainee at CAAP**
+**On Job Trainee at CAAP**  
+**ADU Game Member 2021**  
+**ADU IT and IS Member**
 
 ## 🎶 Hobbies
 **Drummer, Music Enthusiast, and Playing Games**
