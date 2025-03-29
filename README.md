@@ -52,3 +52,9 @@ Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from t
 - **Database Specialist**
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+
+## 📊 GitHub Analytics
+
+![Fury1021's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fury1021&show_icons=true&theme=radical)
+
+![Profile views](https://gpvc.arturio.dev/Fury1021)
