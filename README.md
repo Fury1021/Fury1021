@@ -1,7 +1,11 @@
 # MY PROFILE
 
-## About Me
-Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from the Philippines. I love crafting seamless, responsive, and dynamic web applications using modern technologies. My coding journey is fueled by my dedication to innovation and creativity.
+## 👋 **About Me**  
+Hey there! I’m **Diomer L. Manaois**, a passionate **Full Stack Web Developer** from the Philippines. I specialize in building dynamic, responsive web applications using modern technologies like **React.js**, **Laravel**, **Tailwind CSS**, and **MySQL**.  
+
+I’m currently pursuing **BS Information Technology** at **Adamson University** and gaining hands-on experience as an **On-Job Trainee at CAAP**.
+
+Driven by innovation and creativity, I thrive on solving real-world challenges through code. Let’s connect and build something amazing together! 💻🚀
 
 ## 🎓 Education
 **BS Information Technology** at Adamson University
