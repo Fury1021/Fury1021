@@ -4,8 +4,7 @@
 Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from the Philippines. I love crafting seamless, responsive, and dynamic web applications using modern technologies. My coding journey is fueled by my dedication to innovation and creativity.
 
 # 🎓 Education
-**BS Information Technology** at Adamson University
-**Magna Cum Laude** at Adamson University
+**BS Information Technology** at Adamson University and a **Magna Cum Laude** at Adamson University
 
 # 💼 Profession
 **On Job Trainee at CAAP**  
