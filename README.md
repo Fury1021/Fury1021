@@ -5,6 +5,7 @@ Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from t
 
 # 🎓 Education
 **BS Information Technology** at Adamson University
+**Magna Cum Laude** at Adamson University
 
 # 💼 Profession
 **On Job Trainee at CAAP**  
