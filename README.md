@@ -56,7 +56,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ## 🚀 Profile Analytics
 ![Profile Views](https://komarev.com/ghpvc/?username=fury1021&color=blue)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fury1021&theme=darkhub)
-![Diomer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fury1021&theme=react-dark)
 
 ---
 
