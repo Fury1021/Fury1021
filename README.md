@@ -1,13 +1,16 @@
 # MY PROFILE
 
 ## About Me
-Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from the Philippines. I love crafting seamless, responsive, and dynamic web applications using modern technologies. My coding journey is fueled by my dedication to innovation and creativity.
+Hey there! I'm Diomer L. Manaois, a passionate Full Stack Web Developer and DevOps enthusiast from the Philippines. I love crafting seamless, responsive, and dynamic web applications using modern technologies while ensuring smooth deployments and production environments. My coding journey is fueled by my dedication to innovation, creativity, and operational excellence.
 
 # 🎓 Education
-**BS Information Technology** at Adamson University and a **Magna Cum Laude** at Adamson University
+**BS Information Technology** at Adamson University - **Magna Cum Laude** 🎓
 
 # 💼 Profession
-**On Job Trainee at CAAP**  
+**Senior Software Engineer at CAAP** 🚀  
+Handling production site deployments, server management, and full-stack development
+
+**Former On Job Trainee at CAAP**  
 **ADU Game Member 2021**  
 **ADU IT and IS Member**
 
@@ -21,16 +24,29 @@ Hey there! I’m Diomer L. Manaois, a passionate Full Stack Web Developer from t
 ## 🛠️ Tools & Platforms
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+## ⚙️ DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![WinSCP](https://img.shields.io/badge/WinSCP-00A0E3?style=for-the-badge&logo=files&logoColor=white) ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+**Skills & Experience:**
+- 🐧 Linux server administration and management
+- 📁 Secure file transfers with WinSCP
+- 💻 Virtual machine management using Hyper-V Manager
+- ⚡ Proficient in sudo commands and shell scripting
+- 🚀 Production site deployment and monitoring
+- 🔧 Server configuration and troubleshooting
+
 ## 🧠 AI Tools
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-f8c307?style=for-the-badge&logo=anthropic&logoColor=black) ![Grok](https://img.shields.io/badge/Grok-0052cc?style=for-the-badge&logo=atlassian&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-006699?style=for-the-badge&logo=perplexity&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🏆 Roles
-- **Junior Web Developer**
-- **Full-Stack Developer**
-- **Graphics Designer**
-- **Database Specialist**
+## 🏆 Roles & Expertise
+- **Senior Software Engineer** 🚀
+- **DevOps Engineer** ⚙️
+- **Full-Stack Developer** 💻
+- **Production Site Manager** 🌐
+- **Graphics Designer** 🎨
+- **Database Specialist** 💾
 
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas! Always open to interesting projects and tech discussions.
 
 ## 📊 GitHub Stats
 | GitHub Stats | Top Languages | GitHub Streak |
@@ -42,4 +58,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fury1021&theme=darkhub)
 ![Diomer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fury1021&theme=react-dark)
 
-[Click here for a surprise](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+---
+
+💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+[Click here for a surprise](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 😉
