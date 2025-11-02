@@ -7,7 +7,7 @@ Hey there! I'm Diomer L. Manaois, a passionate Full Stack Web Developer and DevO
 **BS Information Technology** at Adamson University - **Magna Cum Laude** 🎓
 
 # 💼 Profession
-**Senior Software Engineer at CAAP** 🚀  
+**Senior Software Engineer | IT Consultant at CAAP** 🚀  
 Handling production site deployments, server management, and full-stack development
 
 **Former On Job Trainee at CAAP**  
